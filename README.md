@@ -149,7 +149,7 @@ content_image
 
 
     
-![png](output_9_1.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_9_1.png)
     
 
 
@@ -227,7 +227,7 @@ example
 
 
     
-![png](output_15_0.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_15_0.png)
     
 
 
@@ -547,7 +547,7 @@ plt.show()
 
 
     
-![png](output_43_1.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_43_1.png)
     
 
 
@@ -570,7 +570,7 @@ plt.show()
 
 
     
-![png](output_45_1.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_45_1.png)
     
 
 
@@ -598,7 +598,7 @@ plt.show()
 
 
     
-![png](output_47_1.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_47_1.png)
     
 
 
@@ -767,7 +767,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_1.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_1.png)
     
 
 
@@ -776,7 +776,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_3.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_3.png)
     
 
 
@@ -785,7 +785,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_5.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_5.png)
     
 
 
@@ -794,7 +794,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_7.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_7.png)
     
 
 
@@ -803,7 +803,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_9.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_9.png)
     
 
 
@@ -812,7 +812,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_11.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_11.png)
     
 
 
@@ -821,7 +821,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_13.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_13.png)
     
 
 
@@ -830,7 +830,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_15.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_15.png)
     
 
 
@@ -839,7 +839,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_17.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_17.png)
     
 
 
@@ -848,7 +848,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_19.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_19.png)
     
 
 
@@ -857,7 +857,7 @@ for i in range(epochs):
 
 
     
-![png](output_63_21.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_63_21.png)
     
 
 
@@ -881,7 +881,7 @@ plt.show()
 
 
     
-![png](output_65_0.png)
+![png](https://github.com/Raed-Alshehri/Art_Generation_Neural_Style_Transfer/blob/main/Files/output_65_0.png)
     
 
 
@@ -924,3 +924,4 @@ The Neural Style Transfer algorithm was due to Gatys et al. (2015). Harish Naray
 - Log0, [TensorFlow Implementation of "A Neural Algorithm of Artistic Style".](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
 - Karen Simonyan and Andrew Zisserman (2015). [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 - [MatConvNet.](http://www.vlfeat.org/matconvnet/pretrained/)
+    
