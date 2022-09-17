@@ -925,3 +925,23 @@ The Neural Style Transfer algorithm was due to Gatys et al. (2015). Harish Naray
 - Karen Simonyan and Andrew Zisserman (2015). [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 - [MatConvNet.](http://www.vlfeat.org/matconvnet/pretrained/)
     
+## 🛠 Skills Used
+Python, Deep Learning, Optimization, Neural Style Transfer.
+
+
+## 🚀 About Me
+👋 Hi, I’m @Raed-Alshehri
+
+👀 I’m interested in data science, machine learning, and statistics.
+
+🌱 I’m applying my skills in the data analytics field using Python, R, and SQL
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raed-alshehri.github.io/RaedAlshehri.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raedalshehri/)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at alshehri.raeda@gmail.com
